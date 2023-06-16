@@ -1,0 +1,2 @@
+C:\Users\labs\Desktop\New folder\sys\x64\Release\regfltr.sys
+C:\Users\labs\Desktop\Newfolder\sys\x64\Release\regfltr.sys

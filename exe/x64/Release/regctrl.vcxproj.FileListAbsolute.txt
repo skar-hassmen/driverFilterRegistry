@@ -1,0 +1,3 @@
+C:\Users\skarhassmen\Desktop\project\exe\x64\Release\regctrl.exe
+C:\Users\labs\Desktop\New folder\exe\x64\Release\regctrl.exe
+C:\Users\labs\Desktop\Newfolder\exe\x64\Release\regctrl.exe

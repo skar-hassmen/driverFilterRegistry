@@ -1,0 +1,8 @@
+﻿  Building 'regfltr' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  driver.c
+  regfltr.vcxproj -> C:\Users\labs\Desktop\Newfolder\sys\x64\Release\regfltr.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\labs\Desktop\Newfolder\sys\x64\Release\regfltr.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

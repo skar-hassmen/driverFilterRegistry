@@ -1,0 +1,2 @@
+C:\Users\labs\Desktop\New folder\exe\x64\Debug\regctrl.exe
+C:\Users\labs\Desktop\Newfolder\exe\x64\Debug\regctrl.exe

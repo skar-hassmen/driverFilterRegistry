@@ -1,0 +1,9 @@
+﻿  Building 'regctrl' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30148 для x86
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /I"C:\Users\labs\Desktop\New folder\exe" /IDebug\ /I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\km\\" /Zi /W0 /WX /diagnostics:column /Od /Oi /Oy- /D _X86_=1 /D i386=1 /D STD_CALL /D WIN32_LEAN_AND_MEAN=1 /D _WIN32_WINNT=0x0A00 /D WINVER=0x0A00 /D WINNT=1 /D NTDDI_VERSION=0x0A000008 /D DBG=1 /D UNICODE /D _UNICODE /Gm- /EHs /RTC1 /MDd /GS- /guard:cf /fp:precise /Zc:wchar_t- /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W0 /Gz /TP /FI"C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\warning.h" /analyze- /FC /errorReport:prompt myprogram.cpp regctrl.c util.c
+  myprogram.cpp
+  regctrl.c
+  util.c
+  Создание кода...
+  regctrl.vcxproj -> C:\Users\labs\Desktop\New folder\exe\Debug\regctrl.exe
